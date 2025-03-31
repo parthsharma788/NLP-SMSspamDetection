@@ -1,7 +1,7 @@
 # 📩 SMS Spam Classifier - NLP Project 🚀
 ## 📌 Project Overview
 This project focuses on classifying SMS messages as Spam or Ham (Not Spam) using Natural Language Processing (NLP) and Machine Learning. 🧠📊
-Applied Machine Learning models to classify messages as Spam or Ham.
+✅ Analyzed real-world SMS data from the SMSSpamCollection dataset
 
 ## ⚙️ Tech Stack
 🔹 Python 🐍

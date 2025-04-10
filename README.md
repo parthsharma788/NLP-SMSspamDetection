@@ -15,3 +15,5 @@ The dataset contains SMS messages labeled as spam or ham. It is preprocessed usi
 ✅ Removing stopwords
 ✅ Lemmatization
 ✅ Tokenization
+
+## Author - Parth Sharma

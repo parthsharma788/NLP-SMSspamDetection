@@ -5,9 +5,13 @@ This project focuses on classifying SMS messages as Spam or Ham (Not Spam) using
 
 ## ⚙️ Tech Stack
 🔹 Python 🐍
+
 🔹 pandas, NumPy 📊
+
 🔹 scikit-learn 🤖
+
 🔹 NLTK 📝
+
 🔹 Matplotlib, Seaborn 📈
 
 ## 📂 Dataset

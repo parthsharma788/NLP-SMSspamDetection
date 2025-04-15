@@ -2,6 +2,9 @@
 ## 📌 Project Overview
 This project focuses on classifying SMS messages as Spam or Ham (Not Spam) using Natural Language Processing (NLP) and Machine Learning. 🧠📊
 
+## Model:
+Applied TF-IDF for feature extraction and trained models like Logistic Regression, Naïve Bayes using Pipelines.
+
 ✅ Analyzed real-world SMS data from the SMSSpamCollection dataset
 
 ## ⚙️ Tech Stack
@@ -25,3 +28,4 @@ The dataset contains SMS messages labeled as spam or ham. It is preprocessed usi
 ✅ Tokenization
 
 ## Author - Parth Sharma
+## Linkedin - http://www.linkedin.com/in/parth-sharma-8288a7283

@@ -1,4 +1,5 @@
 # 📩 SMS Spam Classifier - NLP Project 🚀
+**Natural language processing (NLP) is a machine learning technology that gives computers the ability to interpret, manipulate, and comprehend human language.**
 ## 📌 Project Overview
 This project focuses on classifying SMS messages as Spam or Ham (Not Spam) using Natural Language Processing (NLP) and Machine Learning. 🧠📊
 

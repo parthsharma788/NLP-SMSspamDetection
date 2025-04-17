@@ -6,7 +6,8 @@ This project focuses on classifying SMS messages as Spam or Ham (Not Spam) using
 ## Model:
 Applied TF-IDF for feature extraction and trained models like Logistic Regression, Naïve Bayes using Pipelines.
 
-## Data : ✅ Analyzed real-world SMS data from the SMSSpamCollection dataset
+## ✅Data:
+Analyzed real-world SMS data from the SMSSpamCollection dataset
 
 ## ⚙️ Tech Stack
 🔹 Python 🐍

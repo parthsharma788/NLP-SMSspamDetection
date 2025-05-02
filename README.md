@@ -29,5 +29,8 @@ The dataset contains SMS messages labeled as spam or ham. It is preprocessed usi
 
 ✅ Tokenization
 
-## Author - Parth Sharma
-## Linkedin - http://www.linkedin.com/in/parth-sharma-8288a7283
+#### Author - Parth Sharma
+#### Linkedin - http://www.linkedin.com/in/parth-sharma-8288a7283
+#### 📧 Email: Parthsharma2300@gmail.com
+
+⭐ If you found this helpful, consider giving it a star!
